@@ -13,23 +13,25 @@ scripts.js has starter document.ready function
 
 Creates the following structure:
 
-/index.html
- robots.txt
- config.rb
- assets
- assets/images
- assets/js
- assets/js/scripts.js
- assets/css
- assets/css/sass
- assets/css/sass/style.scss
- assets/css/sass/global
- assets/css/sass/global/_master.scss
- assets/css/sass/global/_mixins.scss
- assets/css/sass/global/_variables.scss
- assets/css/sass/site
- assets/css/sass/site/_base.scss
- assets/css/sass/site/_layout.scss
- assets/css/sass/site/_navigation.scss
- assets/css/sass/site/_sections.scss
- assets/css/sass/site/_typography.scss
+/index.html  
+ robots.txt  
+ config.rb  
+ assets  
+ assets/images  
+ assets/js  
+ assets/js/scripts.js  
+ assets/css  
+ assets/css/sass  
+ assets/css/sass/style.scss  
+ assets/css/sass/global  
+ assets/css/sass/global/_master.scss  
+ assets/css/sass/global/_mixins.scss  
+ assets/css/sass/global/_variables.scss  
+ assets/css/sass/site  
+ assets/css/sass/site/_base.scss  
+ assets/css/sass/site/_layout.scss  
+ assets/css/sass/site/_navigation.scss  
+ assets/css/sass/site/_sections.scss  
+ assets/css/sass/site/_typography.scss  
+ 
+ 
